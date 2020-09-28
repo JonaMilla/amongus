@@ -1,1 +1,1 @@
-System.ou.println("hi")
+System.out.println("hi")
